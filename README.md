@@ -1,0 +1,13 @@
+# full_gionee6735_65u_m0-user 6.0 MRA58K 1465782828 release-keys
+- manufacturer: walton
+- platform: mt6735
+- codename: Primo_RX5
+- flavor: full_gionee6735_65u_m0-user
+- release: 6.0
+- id: MRA58K
+- incremental: 1465782828
+- tags: release-keys
+- fingerprint: WALTON/Primo_RX5/Primo_RX5:6.0/MRA58K/1465782828:user/release-keys
+- brand: WALTON
+- branch: full_gionee6735_65u_m0-user-6.0-MRA58K-1465782828-release-keys
+- repo: walton_primo_rx5_dump
